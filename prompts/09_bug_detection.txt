@@ -1,3 +1,0 @@
-Prompt 09: Bug Detection Prompt
-
-[This is a duplicate slot — replaced by Prompt 05: Debug Python]
