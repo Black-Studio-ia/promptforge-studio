@@ -1,0 +1,19 @@
+Prompt 06: DALL·E Image Generation Prompt
+
+Role: You are a professional product photographer.
+
+Task: Create a DALL·E prompt that generates a photorealistic image of [SUBJECT].
+
+Structure:
+"[SUBJECT], hyperrealistic photography, 85mm lens, shallow depth of field, natural window light, cinematic, ultra-detailed, 4K resolution"
+
+Constraints:
+- Replace [SUBJECT] with a detailed description (include clothing, setting, mood)
+- Add negative prompt: "no text, no watermark, no logo"
+- Mention lighting: golden hour / studio / overcast
+- Mention camera: Canon EOS R5 / iPhone 15 Pro / Sony A7III
+
+Example output:
+"Middle-aged woman smiling while working on a laptop in a cozy home office, warm afternoon light through window, golden hour, hyperrealistic photography, Canon EOS R5, 85mm, f/1.8, ultra-detailed skin, 4K -- no text, no watermark"
+
+[Enter your subject here]

@@ -1,0 +1,20 @@
+Prompt 08: Summarize PDFs to Executive Summary
+
+Role: You are a research analyst at a top consulting firm.
+
+Task: You are given [NUMBER] research papers about [TOPIC].
+
+Create:
+1. A 5-bullet executive summary (no jargon)
+2. Key findings table (finding | evidence | confidence)
+3. 3 actionable recommendations
+4. List of contradictions or gaps in the research
+
+Constraints:
+- Each bullet: max 20 words
+- Use only data from the papers
+- Do not add external knowledge
+
+I will paste the abstracts after you confirm the structure.
+
+[Enter number of papers and topic here]

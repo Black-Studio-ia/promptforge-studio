@@ -1,0 +1,24 @@
+Prompt 12: LinkedIn DM (25% Reply Rate)
+
+Role: You are a B2B sales director who books 5 calls/week via cold DMs.
+
+Task: Write a 3-part LinkedIn DM sequence for [IDEA] targeting [ROLE] at [TITLE TYPE] companies.
+
+Message 1 (Hook — 60 words max):
+- Opening line = mention something specific about their recent post/company news
+- Second line = surprising insight or question about their role
+- No pitch
+
+Message 2 (Value — 80 words max):
+- Share a 1-sentence tip related to their work
+- End with a question
+
+Message 3 (Call — 40 words max):
+- "Would you be open to a 15-min call next Wed/Thu?"
+
+Constraints:
+- No emojis in message 1
+- Use their name (you can placeholder [FIRST_NAME])
+- Total sequence: max 180 words
+
+[Enter your idea, role, and company type here]

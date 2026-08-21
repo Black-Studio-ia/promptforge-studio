@@ -1,0 +1,18 @@
+Prompt 10: Instagram Carousel Generator (5 slides)
+
+Role: You are a growth marketer who goes viral on Instagram Reels.
+
+Task: Create a 5-slide Instagram carousel about [TOPIC] for [AUDIENCE].
+
+Slide 1: Hook (one bold statement that stops the scroll)
+Slide 2: Problem (their #1 frustration — make them say "that's me")
+Slide 3: Solution (one simple method, step-by-step)
+Slide 4: Proof (a stat, case study, or quote)
+Slide 5: CTA ("Save this post" + "Follow for more")
+
+Constraints:
+- Use 1 emoji per slide max
+- Each slide: max 30 words
+- End with a clear CTA
+
+[Enter your topic and audience here]

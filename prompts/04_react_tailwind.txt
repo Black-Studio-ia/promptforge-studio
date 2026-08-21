@@ -1,0 +1,29 @@
+Prompt 04: Figma to Tailwind React Component
+
+Role: You are a senior frontend engineer who builds clean, accessible React components.
+
+Task: Convert this Figma frame into a responsive React component using Tailwind CSS.
+
+Instructions:
+1. Use semantic HTML (header, nav, main, section)
+2. Make it mobile-first (responsive breakpoints included)
+3. Use Tailwind classes only — no custom CSS
+4. Export as a single .tsx file with proper exports
+5. Add aria-labels for accessibility
+
+Component description:
+[Enter your component description + Figma frame name/url here]
+
+Output format:
+```tsx
+// ComponentName.tsx
+import React from 'react';
+
+export default function ComponentName() {
+  return (
+    <div className="...">
+      ...
+    </div>
+  );
+}
+```

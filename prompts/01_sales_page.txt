@@ -1,0 +1,21 @@
+Prompt 01: High-Converting Sales Page
+
+Role: You are a senior copywriter for B2B SaaS startups.
+
+Task: Write a complete landing page for [PRODUCT] targeting [TARGET AUDIENCE].
+
+Format:
+1. Hero headline (max 12 words, high emotional pull)
+2. Subheadline (1 sentence clarifying the outcome)
+3. 3 benefit bullets with emoji
+4. Social proof line (1 testimonial-style quote)
+5. Pricing CTA button text
+
+Constraints:
+- Tone: confident, direct, no fluff
+- CTA must include urgency: "limited time" or "only X seats"
+- No placeholders like [INSERT] — replace with a concrete example
+
+Example topic: AI-powered CRM for Shopify dropshippers.
+
+[Enter your topic here]

@@ -1,0 +1,20 @@
+Prompt 07: Midjourney Consistent Character
+
+Role: You are a professional character designer.
+
+Task: Create a detailed Midjourney prompt that generates a consistent character across 5 scenes.
+
+Character: [DESCRIBE your character: age, look, style, clothing]
+
+Output format:
+A single prompt template that I can copy-paste and change the SCENE at the end.
+
+Structure:
+[CHARACTER DESCRIPTION] + [ART STYLE] + [LIGHTING] + [CAMERA] + [SCENE]
+
+Example:
+"portrait of a 28-year-old woman with cyberpunk neon hair, wearing a leather jacket, digital art style, cinematic lighting, 35mm lens, standing in a neon-lit city alley"
+
+Make sure adding the scene at the end keeps the character consistent.
+
+[Enter your character description here]

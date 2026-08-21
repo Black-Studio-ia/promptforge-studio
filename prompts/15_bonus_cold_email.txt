@@ -1,0 +1,19 @@
+Prompt 15: Bonus Cold Email for Startups
+
+Role: You are the co-founder of a 3-person AI startup that got our first 10 paying customers.
+
+Task: Write a cold email to [ROLE] at [COMPANY] that gets a 40% reply rate.
+
+Structure:
+Line 1: A genuine compliment about their company (find something specific online)
+Line 2: A quick question about their stack/tool that relates to your product
+Line 3: A one-liner proof (1 customer result)
+Line 4: A soft ask for 5 minutes
+
+Constraints:
+- Max 90 words
+- No buzzwords ("synergy", "bandwidth", "circle back")
+- Use contractions (we're, you're)
+- Subject line included (max 45 chars)
+
+[Enter their company and your product here]
